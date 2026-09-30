@@ -42,7 +42,7 @@ function Projects() {
     <section className="page-section">
 
       <div className="section-heading">
-        <p className="eyebrow">My Work</p>
+        <p className="eyebrow">My Work!</p>
         <h1>Projects</h1>
 
         <p>
