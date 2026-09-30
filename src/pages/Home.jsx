@@ -22,7 +22,7 @@ function Home() {
 
         <div className="hero-buttons">
           <Link to="/about" className="primary-button">
-            About Me
+            About Me!
           </Link>
 
           <Link to="/projects" className="secondary-button">
