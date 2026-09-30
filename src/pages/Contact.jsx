@@ -40,7 +40,7 @@ function Contact() {
     <section className="page-section">
 
       <div className="section-heading">
-        <p className="eyebrow">Let's Connect</p>
+        <p className="eyebrow">Let's Connect!</p>
         <h1>Contact Me</h1>
 
         <p>
