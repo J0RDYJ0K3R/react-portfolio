@@ -3,7 +3,7 @@ function Education() {
     <section className="page-section">
 
       <div className="section-heading">
-        <p className="eyebrow">Academic Background</p>
+        <p className="eyebrow">Academic Background!</p>
         <h1>Education</h1>
       </div>
 
