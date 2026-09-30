@@ -57,7 +57,7 @@ function Contact() {
 
           <div className="contact-detail">
             <span>Email</span>
-            <p>your.email@example.com</p>
+            <p>aprime084@gmail.com</p>
           </div>
 
           <div className="contact-detail">
