@@ -4,7 +4,7 @@ function About() {
 
       <div className="section-heading">
         <p className="eyebrow">Get To Know Me</p>
-        <h1>About Me</h1>
+        <h1>About Me!</h1>
       </div>
 
       <div className="about-container">
