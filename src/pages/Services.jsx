@@ -34,7 +34,7 @@ function Services() {
     <section className="page-section">
 
       <div className="section-heading">
-        <p className="eyebrow">What I Do</p>
+        <p className="eyebrow">What I Do!</p>
         <h1>Services</h1>
 
         <p>
