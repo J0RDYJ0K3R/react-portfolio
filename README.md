@@ -45,3 +45,14 @@ Install dependencies:
 
 ```bash
 npm install
+
+npm run dev
+
+npm run build
+
+## About the build test
+
+I attempted to run:
+
+```bash
+npm run build
