@@ -3,6 +3,12 @@
 This project is a personal portfolio website developed using React for
 COMP229 – Web Application Development.
 
+## Author
+
+Benjamin Shlamovsky-Koroz
+Software Engineering Technology – Artificial Intelligence
+Centennial College
+
 ## Features
 
 - Responsive React user interface

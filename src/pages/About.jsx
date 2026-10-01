@@ -12,7 +12,7 @@ function About() {
         <div className="about-image">
           <img
             src="/images/profile.jpg"
-            alt="Professional portrait of Your Name"
+            alt="Professional portrait of Benjamin Shlamovsky-Koroz"
           />
         </div>
 

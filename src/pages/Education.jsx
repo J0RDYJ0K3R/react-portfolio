@@ -12,7 +12,7 @@ function Education() {
         <article className="education-card">
 
           <span className="education-date">
-            Current
+            2025 - Present
           </span>
 
           <h2>Centennial College</h2>
