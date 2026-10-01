@@ -44,15 +44,9 @@ Centennial College
 Install dependencies:
 
 ```bash
-npm install
 
-npm run dev
+- npm install
 
-npm run build
+- npm run dev
 
-## About the build test
-
-I attempted to run:
-
-```bash
-npm run build
+- npm run build
